@@ -1,6 +1,4 @@
-Tabii, aşağıda verdiğiniz Python kodu için uygun bir **README** dosyası örneği bulabilirsiniz:
 
----
 
 # Vücut Yüzey Alanı Hesaplama Programı
 
@@ -53,7 +51,7 @@ pip install customtkinter numpy pillow
 Bu programda **Vücut Yüzey Alanı (BSA)**, aşağıdaki formülle hesaplanır:
 
 \[
-BSA = \sqrt{\frac{Kilo \times Boy}{3600}}
+img
 \]
 
 - **Kilo**: Kullanıcının kilosu (kg).
