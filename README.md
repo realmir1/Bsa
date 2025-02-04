@@ -65,12 +65,6 @@ img
 
 ---
 
-## Lisans
-
-Bu proje, **MIT Lisansı** altında lisanslanmıştır. [Lisansı Görüntüle](LICENSE).
-
----
-
 ## Katkı
 
 Bu projeye katkıda bulunmak isterseniz, lütfen bir pull request gönderin. Yorumlar, öneriler ve hata raporları için [GitHub Issues](https://github.com/kullanici/VSCO1prjct/issues) sayfasını kullanabilirsiniz.
